@@ -1,5 +1,4 @@
 # Computer-networks
-Tasks
 
 Урок 3. Коммутация Ethernet.
 
